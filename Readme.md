@@ -2,7 +2,7 @@
 
 This is a simple page simulating a boarding pass page and using QRCode Svg to simulate a QR Code and React Native Svg to styling the page.
 
-![Boarding Pass Page](https://github.com/felipeamodio/Boarding-Pass/blob/master/boardingPass.png)
+![Boarding Pass Page](https://github.com/felipeamodio/Boarding-Pass/blob/main/boardingPass.png)
 
 ## Libs
 
